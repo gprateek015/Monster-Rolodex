@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  height: 100%;
+  margin: 20px auto;
+}
+.title {
+  font-family: 'Comforter', cursive;
+  margin: 60px auto;
+  font-size: 7em;
+  color: #7fcae0;
+  font-weight: 400;
+}

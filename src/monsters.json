@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Aboleth",
+    "id": 1
+  },
+  {
+    "name": "Acolyte",
+    "id": 2
+  },
+  {
+    "name": "Air Elemental",
+    "id": 3
+  },
+  {
+    "name": "Ancient White Dragon",
+    "id": 4
+  },
+  {
+    "name": "Androsphinx",
+    "id": 5
+  },
+  {
+    "name": "Animated Armor",
+    "id": 6
+  },
+  {
+    "name": "Ankheg",
+    "id": 7
+  },
+  {
+    "name": "Ape",
+    "id": 8
+  },
+  {
+    "name": "Archmage",
+    "id": 9
+  },
+  {
+    "name": "Bandit",
+    "id": 10
+  },
+  {
+    "name": "Bandit Captain",
+    "id": 11
+  },
+  {
+    "name": "Black Pudding",
+    "id": 12
+  },
+  {
+    "name": "Blood Hawk",
+    "id": 13
+  },
+  {
+    "name": "Awakened Shrub",
+    "id": 14
+  },
+  {
+    "name": "Bone Devil",
+    "id": 15
+  }
+]
